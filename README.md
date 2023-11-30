@@ -1,6 +1,6 @@
 ## Projeto de Análise de Dados - Tipos de Parto no DATASUS
 
-* **Autores**: André Bergmann Lisboa e Lucas Cardoso Azevedo
+* André Bergmann Lisboa e Lucas Cardoso Azevedo
 
 ### Descrição da Investigação
 
